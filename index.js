@@ -50,7 +50,12 @@ function sendToDingding(dingding, title, text) {
     request.post(options, (err, res, body)=>{
         if(!err && res.statusCode == 200){
             let info = JSON.parse(body);
-            console.log(info);
+            // console.log(info);
+            if(info.errcode != 0){
+                console.error(info);
+            }
+        }else{
+            console.error(err);
         }
     });
 }

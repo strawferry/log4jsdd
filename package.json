@@ -1,6 +1,6 @@
 {
   "name": "log4jsdd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "log4js dingding Appenders ",
   "main": "ding.js",
   "scripts": {
