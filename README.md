@@ -46,6 +46,11 @@
 ![](https://ws1.sinaimg.cn/large/8bbf0afbly1fotncin1ebj212a0uutbn.jpg)
 ![](https://ws1.sinaimg.cn/large/8bbf0afbly1fotncipj81j21hc0xg7a3.jpg)
 
+## 地址
+
+> [**GitHub 仓库地址**](https://github.com/strawferry/log4jsdd)
+
+> [**npm 地址**](https://www.npmjs.com/package/log4jsdd)
 
 # 个人博客
 ### **博客地址: [`https://cblog.ferryvip.com/`](https://cblog.ferryvip.com/)**
